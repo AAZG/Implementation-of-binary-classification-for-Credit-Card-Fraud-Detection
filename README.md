@@ -13,7 +13,7 @@ Need to carry out a classification to determine the legality or fraud in transac
 ## Completed.
 - Data cleaning and Data preprocessing
 - EDA: Univariate and multivariate analysis
-- robust techniques treat extreme outliers
+- Apply robust techniques treat extreme outliers
 - Scaling Data
 - Models deployment Binary Classification.
 - Classification with LogisticRegression, DecisionTreeClassifier, RandomForestClassifier and KNeighborsClassifier
