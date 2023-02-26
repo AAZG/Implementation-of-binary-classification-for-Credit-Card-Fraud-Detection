@@ -1,3 +1,5 @@
+[<img src="images/front_page.jpg" width="900" target="_blank" alt="Click to go to this project's GitHub repository" title="Click to go to this project's GitHub repository"/>](https://github.com/AAZG/Implementation-of-binary-classification-for-Credit-Card-Fraud-Detection)
+
 # Implementation-of-binary-classification-for-Credit-Card-Fraud-Detection
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
