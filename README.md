@@ -27,7 +27,7 @@ Need to carry out a classification to determine the legality or fraud in transac
 ## Participants.
 The project was carried out individually.
 
-## Puedes utilizar Deepnote para visualizar el proyecto y trabajar interactivamente con los notebooks siguiendo el enlace de este botón:
+## You can view and clone the project as well as work interactively with the notebooks in Deepnote by following the link on this button:
 [<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@aazg/Implementation-of-binary-classification-for-Credit-Card-Fraud-Detection-9dd13b3d-1e27-4f69-ad18-621f5e71f5fe)
 
 ## License.
